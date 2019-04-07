@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5c0ba8</color>
+    <color name="colorPrimaryDark">#230078</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="secondaryLightColor">#9043db</color>
+    <color name="secondaryDarkColor">#230078</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="text_white">#ffffff</color>
+    <color name="black">#181818</color>
+    <color name="grey_brown">#424242</color>
+    <color name="grey_brown_input_text">#333333</color>
+
+    <color name="tab_indicator">#2d2d2d</color>
+
+    <color name="layout_background_black">#2c3446</color>
+    <color name="layout_background">#0c1018</color>
+    <color name="nav_background_color">#1b2539</color>
+    <color name="nav_background_brown_color">#40516b</color>
+    <color name="inactive_text_color">#40516b</color>
+    <color name="primaryColor_Green">#0F77E9</color>
+
+    <!--transparent color-->
+    <color name="transparent_color">#00000000</color>
+    <color name="transparent_blur_color">#47000000</color>
+    <!--Newest Jtime-->
+    <color name="blue_jtime">#0075d3</color>
+    <color name="orange_jtime">#ee5229</color>
+    <color name="pink_jtime">#e9366d</color>
+    <color name="green_jtime">#009b0f</color>
+    <color name="red_jtime">#e32735</color>
+    <color name="purple_jtime">#5c0ba8</color>
+    <color name="yellow_jtime">#ff8d08</color>
+
+
+    <!--facebook color-->
+    <color name="facebook_color">#3b5998</color>
+    <color name="google_color">#d62d20</color>
+</resources>

@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "737540967919",
+    "firebase_url": "https://dmcdanang-19129.firebaseio.com",
+    "project_id": "dmcdanang-19129",
+    "storage_bucket": "dmcdanang-19129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737540967919:android:db5aea3db844b35b",
+        "android_client_info": {
+          "package_name": "com.example.android.dmc_danang2019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737540967919-smkbch5ipn9v6vp00mvc7d63gumdueqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.dmc_danang2019",
+            "certificate_hash": "86f68b4c0fd73260de2b7ab9b88b59e0bdcffbb7"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATyiaqJ0rJiFUeDHcP9zNU2y7aRe8WCbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737540967919-p05hsc9ia81t2pvthn2kihijanap700a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
